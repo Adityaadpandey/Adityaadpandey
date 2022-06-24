@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...good projects
 - 📫 How to reach me ...adityapandeyadp@gmail.com
 ## Hi there 👋 I’m Aditya Pandey
-[![Profile views](https://komarev.com/ghpvc/?username=Adityaadpandey&label=Profile%20views)](https://github.com/Adityaadpandey)
+[![Profile views](https://komarev.com/ghpvc/?username=Adityaadpandey&label=Profile%20views&style=for-the-badge&color=blueviolet)](https://github.com/Adityaadpandey)
 
 
 ## 🛠️ Languages and tools I 💞️
