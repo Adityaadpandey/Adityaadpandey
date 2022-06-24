@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Adityaadpandey
+<!-- - 👋 Hi, I’m @Adityaadpandey -->
 - 👀 I’m interested in ... making bots
 - 🌱 I’m currently learning ... machine learning
 - 💞️ I’m looking to collaborate on ...good projects
 - 📫 How to reach me ...adityapandeyadp@gmail.com
-## Hi there 👋
+## Hi there 👋 I’m Aditya Pandey
 [![Profile views](https://komarev.com/ghpvc/?username=Adityaadpandey&label=Profile%20views)](https://github.com/Adityaadpandey)
 
 
-## 🛠️ Languages and tools
+## 🛠️ Languages and tools I 💞️
 </br>
 <a href="https://www.python.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <!-- <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>  -->
