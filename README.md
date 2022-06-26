@@ -26,7 +26,24 @@
 ---
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/Adityaadpandey?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://Adityaadpandey.me)
+<!-- [![Metrics](https://metrics.lecoq.io/Adityaadpandey?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://Adityaadpandey.me) -->
+
+<p align="left">
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&count_private=true&show_icons=true&count_private=true&include_all_commits=true"
+  />  
+  <img 
+    width="49%"
+    src="http://github-readme-streak-stats.herokuapp.com?user=adityaadpandey&border=e4e2e2" />  
+ 
+</p>
+
+<p align="left">
+  <img width="63%" src='https://svgshare.com/i/_Tx.svg' title='' />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaadpandey&layout=compact" /> 
+</p>
+
 
 ---
 <!--
