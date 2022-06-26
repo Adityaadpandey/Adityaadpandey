@@ -31,17 +31,17 @@
 <p align="left">
   <img 
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&count_private=true&show_icons=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&count_private=true&show_icons=true&count_private=true&include_all_commits=true&theme=radical"
   />  
   <img 
     width="49%"
-    src="http://github-readme-streak-stats.herokuapp.com?user=adityaadpandey&border=e4e2e2" />  
+    src="http://github-readme-streak-stats.herokuapp.com?user=adityaadpandey&border=e4e2e2&theme=radical" />  
  
 </p>
 
 <p align="left">
   <img width="63%" src='https://svgshare.com/i/_Tx.svg' title='' />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaadpandey&layout=compact" /> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaadpandey&layout=compact&theme=radical" /> 
 </p>
 
 
