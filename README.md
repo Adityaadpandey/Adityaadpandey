@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on [Linux-Package-Installer](Linux-Package-Installer)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adityaadpandey/](https://github.com/Adityaadpandey/)
+- 👨‍💻 All of my projects are available at [github.com/Adityaadpandey](https://github.com/Adityaadpandey?tab=repositories)
 
 - 📫 Reach to me through **adityapandeyadp@gmail.com**
 
