@@ -20,17 +20,17 @@
 <p>   </p>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=adityaadpandey&theme=tokyonight&title=Star,Commit,PR,Repo" alt="adityaadpandey" /></a> </p>
 
-- 🔭 I’m currently working on [Linux-Package-Installer](https://github.com/Adityaadpandey/Linux-Package-Installer)
+- 🔭 I’m currently working on [GENCO](https://github.com/Adityaadpandey/rn_genco)
 
-- 🌱 I’m currently learning **Python, React, Nextjs**
+- 🌱 I’m currently learning **Python, React, Nextjs, ReactNative**
 
 - 👯 I’m looking to collaborate on [Linux-Package-Installer](Linux-Package-Installer)
 
-- 👨‍💻 All of my projects are available at [github.com/Adityaadpandey](https://github.com/Adityaadpandey?tab=repositories)
+<!--- 👨‍💻 All of my projects are available at [github.com/Adityaadpandey](https://github.com/Adityaadpandey?tab=repositories) -->
 
 - 📫 Reach to me through **adityapandeyadp@gmail.com**
 
-- ⚡ Fun fact **I think I am a Fool**
+- ⚡ Fun fact **I am a PowerLifter **
 
 
 <p align="left">
