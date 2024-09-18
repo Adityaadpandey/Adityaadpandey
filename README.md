@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Dutt Pandey</h1>
-<h2 align="center">A passionate <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="36px" height="36px" alt="python">   <img src="https://miro.medium.com/max/1400/0*GKIyAWHbKbANm7d9.png" width="100px" height="40px" alt="python"> developer from India</h2>
+<h2 align="center">A passionate <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="36px" height="36px" alt="python">   <img src="https://imgs.search.brave.com/dS2KUxVFKhzR8sc2Q25UFAnG6eh89OYpCXy26Da5WUo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/M2Q5MjZiMzdlYzBk/ODg2YzJkNWQ1Mzgv/NjZiYjY3M2VjODI1/YmE4M2E1Nzc1NTIw/XzY2OTY0NDk0MzVj/ZWFlYTFmMGE0N2Q5/NV9NRVJOLnBuZw" width="100px" height="40px" alt="python"> developer from India</h2>
 
 <p align="left"> <img height="30" width="180px" src="https://komarev.com/ghpvc/?username=adityaadpandey&label=Profile%20views&color=0e75b6&style=flat" alt="adityaadpandey" /> </p>
 </br>
