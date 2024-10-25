@@ -24,13 +24,13 @@
 
 - 🌱 I’m currently learning **Python, React, Nextjs, ReactNative**
 
-- 👯 I’m looking to collaborate on [Linux-Package-Installer](Linux-Package-Installer)
+- 👯 I’m looking to collaborate on [GENCO](https://github.com/Adityaadpandey/rn_genco)
 
 <!--- 👨‍💻 All of my projects are available at [github.com/Adityaadpandey](https://github.com/Adityaadpandey?tab=repositories) -->
 
 - 📫 Reach to me through **adityapandeyadp@gmail.com**
 
-- ⚡ Fun fact **I am a PowerLifter **
+- ⚡ Fun fact **I am a PowerLifter**
 
 
 <p align="left">
