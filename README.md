@@ -74,9 +74,9 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaadpandey&theme=radical" alt="GitHub Streak" width="45%"/>
 </div>
 
-  <h2 align="center">🐍 GitHub Activity Snake</h2>
+  
 
-![GitHub Contribution Snake](https://github.com/Adityaadpandey/Adityaadpandey/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Adityaadpandey/Adityaadpandey/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaadpandey&layout=compact&theme=radical" />  
