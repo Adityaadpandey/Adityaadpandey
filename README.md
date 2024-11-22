@@ -72,14 +72,10 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaadpandey&theme=radical" alt="GitHub Streak" width="45%"/>
-</div>
-
-  
-
-<img src="https://github.com/Adityaadpandey/Adityaadpandey/blob/output/github-contribution-grid-snake.svg"/>
-
 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaadpandey&layout=compact&theme=radical" />  
+</div>
+
 
 ---
 
