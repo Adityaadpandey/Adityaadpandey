@@ -1,0 +1,43 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Adityaadpandey # Replace with your GitHub username
+          outputs: dist/snake.svg
+
+      - name: Upload Snake
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/snake.svg
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: generate
+
+    steps:
+      - name: Download Snake
+        uses: actions/download-artifact@v3
+        with:
+          name: snake
+
+      - name: Push Snake to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
