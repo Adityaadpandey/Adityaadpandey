@@ -9,15 +9,17 @@
 ---
 
 ### 🌟 About Me
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
-- 🎓 **CSE (AI & ML)** | Lovely Professional University  
-- 🤖 Building creative solutions with **ML, MERN, & Mobile Development**  
-- 🌱 Always curious about emerging technologies  
+- 🎓 **CSE (AI & ML)** | Lovely Professional University
+- 🤖 Building creative solutions with **ML, MERN, & Mobile Development**
+- 🌱 Always curious about emerging technologies
 
 ---
 
 ### 🛠️ Tech Stack
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 <p align="center"> <!-- Frontend --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -47,43 +49,51 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> 
 </p>
 
-
 ---
 
 ### 🚀 Projects
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
+### 🚀 [GENCO](https://github.com/Adityaadpandey/rn_genco)
 
-### 🚀 [GENCO](https://github.com/Adityaadpandey/rn_genco)  
 > **AI-powered education platform** with emotional support, flashcards, quizzes, and real-time emotion analysis.  
 > Built with **React Native**, **Python**, and **TensorFlow**.
 
 ---
 
-### 💻 [Portfolio Website](https://adpportfolio.vercel.app/)  
+### 💻 [Portfolio Website](https://adpportfolio.vercel.app/)
+
 > Showcases my work with **Next.js**, **Tailwind CSS**, and an interactive **AI chatbot**.  
 > Explore my projects, achievements, and more.
+
 ---
 
-### 🛠️ [Railway Complaint Management](https://github.com/Adityaadpandey)  
+### 🛠️ [Railway Complaint Management](https://github.com/Adityaadpandey)
+
 > A system to manage railway complaints with **user and worker dashboards**, real-time updates.  
 > Built with **Node.js**, **MongoDB**, and **Express.js**.
+
 ---
 
-### 📂 [Other Projects](https://github.com/Adityaadpandey?tab=repositories)  
+### 📂 [Other Projects](https://github.com/Adityaadpandey?tab=repositories)
+
 > Explore more of my work on [GitHub](https://github.com/Adityaadpandey).  
 > Includes projects like **Linux package manager**, **Hotel website**, and more!
 
 ---
+
 📈 Stats & Activity
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&show_icons=true&theme=tokyonight" alt="Aditya's GitHub Stats" height="150px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaadpandey&theme=tokyonight" alt="GitHub Streak" height="150px" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaadpandey&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/> 
 <!--  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw"> -->
 
-
 ![](https://github-profile-trophy.vercel.app/?username=adityaadpandey&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ### 📬 Let’s Connect!
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 <p align="center">
@@ -96,8 +106,7 @@
 <!--
 ### ⏳ Coding Activity:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" /> 
+<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=6" height="235" />
 </div> -->
-
