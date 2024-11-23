@@ -1,10 +1,9 @@
 <div align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+!" alt="HELLO SECTION">
-</p>
-   <p><i>Problem-solver, Developer, and Tech Enthusiast</i></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&letterSpacing=bold&duration=4000&pause=1500&color=7B91FF&center=true&width=435&lines=HI%2C+There+%F0%9F%91%8B;I'm+Aditya" alt="Typing SVG" />
+ <p><i>Problem-solver, Developer, and Tech Enthusiast</i></p>
 <!--    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF"> -->
-   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80%"  />
 </div>
 
 ---
@@ -76,19 +75,13 @@
 > Includes projects like **Linux package manager**, **Hotel website**, and more!
 
 ---
+📈 Stats & Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&show_icons=true&theme=tokyonight" alt="Aditya's GitHub Stats" height="150px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaadpandey&theme=tokyonight" alt="GitHub Streak" height="150px" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaadpandey&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/> 
+<!--  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw"> -->
 
-### 📈 GitHub Stats
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=adityaadpandey&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaadpandey&theme=radical" alt="GitHub Streak" width="45%"/>
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaadpandey&layout=compact&theme=radical" />  
+![](https://github-profile-trophy.vercel.app/?username=adityaadpandey&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
-
-
----
 
 ### 📬 Let’s Connect!
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
@@ -108,17 +101,3 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=6" height="235" />
 </div> -->
 
-### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
-
-![](https://github-profile-trophy.vercel.app/?username=ADITYAADPANDEY&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-### 📈 Contribution Graph:
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaadpandey&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<br>
