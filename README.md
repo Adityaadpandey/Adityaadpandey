@@ -102,10 +102,8 @@
    <a href="https://linkedin.com/in/adityaduttpandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-
+<!--
 ### ⏳ Coding Activity:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-<img src="https://wakatime.com/badge/user/74371556-9ede-4f68-ba38-ee940f3d6cd1.svg" alt="Total time coded since Nov 24 2024" />
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=6" height="235" />
-</div> 
+<a href="https://wakatime.com/@74371556-9ede-4f68-ba38-ee940f3d6cd1"><img src="https://wakatime.com/badge/user/74371556-9ede-4f68-ba38-ee940f3d6cd1.svg" alt="Total time coded since Nov 24 2024" /></a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=3" height="235" />
+</div> -->
