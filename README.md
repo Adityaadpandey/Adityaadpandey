@@ -12,6 +12,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
+ <img height="30" width="180px" src="https://komarev.com/ghpvc/?username=adityaadpandey&label=Profile%20views&color=0e75b6&style=flat" alt="adityaadpandey" />
+
 - 🎓 **CSE (AI & ML)** | Lovely Professional University
 - 🤖 Building creative solutions with **ML, MERN, & Mobile Development**
 - 🌱 Always curious about emerging technologies
