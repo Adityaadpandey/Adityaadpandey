@@ -114,3 +114,10 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=3" height="235" />
 </div> 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaadpandey/adityaadpandey/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaadpandey/adityaadpandey/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
