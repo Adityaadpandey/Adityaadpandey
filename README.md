@@ -112,7 +112,7 @@
 <div align=center>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=3" height="235" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaadpandey&layout=compact&theme=tokyonight&langs_count=6" height="235" />
 </div> 
 
 
