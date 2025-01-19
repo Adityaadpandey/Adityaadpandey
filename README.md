@@ -53,35 +53,6 @@
 </p>
 
 
-### 🚀 Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
-### 🚀 [GENCO](https://github.com/Adityaadpandey/rn_genco)
-
-> **AI-powered education platform** with emotional support, flashcards, quizzes, and real-time emotion analysis.  
-> Built with **React Native**, **Python**, and **TensorFlow**.
-
-
-### 💻 [Portfolio Website](https://adpportfolio.vercel.app/)
-
-> Showcases my work with **Next.js**, **Tailwind CSS**, and an interactive **AI chatbot**.  
-> Explore my projects, achievements, and more.
-
-
-### 🛠️ [Railway Complaint Management](https://github.com/Adityaadpandey)
-
-> A system to manage railway complaints with **user and worker dashboards**, real-time updates.  
-> Built with **Node.js**, **MongoDB**, and **Express.js**.
-
-
-### 📂 [Other Projects](https://github.com/Adityaadpandey?tab=repositories)
-
-> Explore more of my work on [GitHub](https://github.com/Adityaadpandey).  
-> Includes projects like **Linux package manager**, **Hotel website**, and more!
-
-
-<br><br>
 
 
 ## 📈 Stats & Activity
