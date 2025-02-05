@@ -10,9 +10,10 @@
 
 ### 🌟 About Me
 
-<img src="https://count.getloli.com/@:adityapandeyadp" width="100%"/>
+<!--<img src="https://count.getloli.com/@:adityapandeyadp" width="100%"/>
+-->
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" hieght="50%" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"> 
 
  <img height="30" width="180px" src="https://komarev.com/ghpvc/?username=adityaadpandey&label=Profile%20views&color=0e75b6&style=flat" alt="adityaadpandey" />
 
